@@ -1,6 +1,6 @@
-## FIAP-Tech-Challenge-Fase-1-Grupo-2
+# FIAP-Tech-Challenge-Fase-1-Grupo-2
 
-# INTEGRANTES DO GRUPO 2
+## Integrantes do Grupo 2
 
 * **Wesley Aoyama Silva** - wesleyaoyama@correios.com.br
 * **Gerdson Cunha Pinheiro** - gerdsoncunha@gmail.com
